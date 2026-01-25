@@ -1,0 +1,12 @@
+{
+  "name": "crudapitaskchallenge",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": "https://github.com/Italo-J-A-Fernandes/crudapitaskchallenge.git",
+  "author": "Italo Fernandes <italojafernandes@hotmail.com>",
+  "license": "MIT"
+}
