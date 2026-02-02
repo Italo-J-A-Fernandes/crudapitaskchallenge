@@ -4,13 +4,13 @@
 
 **Esse projeto é um desafio [CRUD de Tarefas](https://app.rocketseat.com.br/projects/ignite-node-js-2023-modulo-01?module_slug=desafio-pratico-crud-tarefas&origin=%2Fjornada%2Fnode-js-2023%2Fconteudos) do curso de Node.Js da Rocketseat.**
 
-| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/italojafernandes |
-| --------------------- | ------------------------------------------------------- |
-| :sparkles: Nome       | **CRUD de Tarefas**                                     |
-| :label: Tecnologias   | node-vanilla, nodejs, javascript                        |
-| 🔖 Status Desafio     | Finalizado                                              |
-| 📖 Status Pessoal     | Parado                                                  |
-| ♻️ Melhorias Futuras  | Usar typescript no projeto                              |
+| :placard: [Vitrine.Dev](https://cursos.alura.com.br/vitrinedev/italojafernandes) | [LinkdIn](https://www.linkedin.com/in/italo-fernandes-2b560235/) |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| :sparkles: Nome                                                                  | **CRUD de Tarefas**                                              |
+| :label: Tecnologias                                                              | node-vanilla, nodejs, javascript                                 |
+| 🔖 Status Desafio                                                                | Finalizado                                                       |
+| 📖 Status Pessoal                                                                | Parado                                                           |
+| ♻️ Melhorias Futuras                                                             | Usar typescript no projeto                                       |
 
 ## Conheça o desafio
 
